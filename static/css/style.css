@@ -212,8 +212,8 @@ h4 {
 
 .card-left{
     left:45px;
-    top:65%;
-    aspect-ratio:1.1/1;
+    top:80%;
+    aspect-ratio:1.2/1;
     transform: translateY(-50%);
    
   
@@ -225,7 +225,7 @@ h4 {
 
 .card-right{
     right:40px;
-    top:65%;
+    top:80%;
     aspect-ratio:1.2/1;
     transform: translateY(-50%);
     
