@@ -103,9 +103,8 @@ h4 {
     justify-content: center;
     text-align: center;
     padding:120px 40px;
-    position:relative;
-    overflow: hidden;
-    background-color: #f0f0ff;
+   
+    background-color: #f0f4ff;
 
     
 
@@ -115,6 +114,7 @@ h4 {
 .badge{
     display:inline-flex;
     align-items:center;
+    gap:8px;
     background-color: white;
     border: 1px solid rgb(225, 198, 225);
     border-radius:100px;
@@ -142,7 +142,7 @@ h4 {
 }
 .hero p { 
     font-size:1.25rem;
-    /* color: var(--text-muted); */
+    color: var(--text-muted);
     max-width: 650px;
     margin-bottom:56px;
     font-weight:400;
