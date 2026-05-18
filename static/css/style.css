@@ -214,6 +214,7 @@ h4 {
     left:45px;
     top:65%;
     aspect-ratio:1.1/1;
+    transform: translateY(-50%);
    
   
    
@@ -226,6 +227,7 @@ h4 {
     right:40px;
     top:65%;
     aspect-ratio:1.2/1;
+    transform: translateY(-50%);
     
     
     
